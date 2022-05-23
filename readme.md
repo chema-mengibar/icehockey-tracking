@@ -22,6 +22,13 @@ It is possible to calculate the position of the player within the triangle using
 
 https://en.wikipedia.org/wiki/Barycentric_coordinate_system
 
+
+## Requirements
+
+- Anaconda , Jupyter
+- Python 3.*
+- Blender 2.8
+
 ### Marks / Trackers
 
 - Goal line
