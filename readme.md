@@ -141,8 +141,8 @@ For this purpose a series of Jupyter Notebooks have been created that apply the 
 
 ## Next steps
 
-- automatic marker positioning
-- automatic player labeling: player numer, team
+- automate marker positioning
+- automate player labeling: player number, team
 - animation of scenes in plots
 - calculation of real distances
 - calculation of displacement speed
